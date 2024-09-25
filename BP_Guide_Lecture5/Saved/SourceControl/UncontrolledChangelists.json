@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/MULT162/BP_Guide_Lecture5/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
+				"D:/Unreal Projects/MULT162/BP_Guide_Lecture5/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+				"D:/Unreal Projects/MULT162/BP_Guide_Lecture5/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Unreal Projects/MULT162/BP_Guide_Lecture5/Content/BP_Guide/BP_Statue.uasset",
+				"D:/Unreal Projects/MULT162/BP_Guide_Lecture5/Content/BP_Guide/BP_Guide_GameMode.uasset",
+				"D:/Unreal Projects/MULT162/BP_Guide_Lecture5/Content/BP_Guide/BP_Guide_HUD.uasset",
+				"D:/Unreal Projects/MULT162/BP_Guide_Lecture5/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
